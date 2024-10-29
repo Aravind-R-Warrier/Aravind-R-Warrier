@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **aravindrwarrier1@gmail.com**
 
-- ⚡ Fun fact **I Learn Fast But That's Not a Joke**
+- ⚡ Fun fact ** I Learn Fast But That's Not a Joke**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
