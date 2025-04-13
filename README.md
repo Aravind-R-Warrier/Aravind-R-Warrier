@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **E-commerce-application**
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **aravindrwarrier1@gmail.com**
 
